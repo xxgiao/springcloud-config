@@ -1,1 +1,2 @@
-url：http://dev.wkcto.com
+config: 
+  url: http://dev.wkcto.com
