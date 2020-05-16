@@ -1,2 +1,2 @@
-config: 
-  url: http://dev.wkcto.com
+config:
+   uri: http://localhost:3344/
